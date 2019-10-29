@@ -2,8 +2,8 @@
 #%%time
 from bs4 import BeautifulSoup 
 import requests 
-
-#fabpot andrew
+# give two usernames as input
+# eg:- fabpot andrew
 name1 = input()
 name2 = input()
 print()
